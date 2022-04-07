@@ -19,5 +19,7 @@ echo "Test ";
     <input type="email" name="email" placeholder="enter your email id">
     <label for="phone no">Phone No.</label>
     <input type="text" name="phoneno" placeholder="enter your phone number">
+    <label for="address">Address</label>
+    <textarea >
 </body>
 </html>
