@@ -12,6 +12,8 @@ echo "Test ";
 </head>
 <body>
     <label for="firstname" name="firstname">Enter Your Firstname</label>
-    <input type="text" name="firstname" placeholder="enter your firstname">
+    <input type="text" name="firstname" placeholder="enter your firstname"><br>
+    <label for="lastname">Enter your lastname</label>
+    <input type="text" name="lastname" placeholder="enter your lastname">
 </body>
 </html>
