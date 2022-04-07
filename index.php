@@ -1,7 +1,7 @@
 <?php
 
 echo "Test ";
-
+$id=$_POST['id'];
 
 ?>
 <!DOCTYPE html>
@@ -13,7 +13,7 @@ echo "Test ";
     <title>Document</title>
 </head>
 <body>
-    <form action="insert1.php" method="POST">
+    <form action="" method="POST">
     <label for="firstname">Firstname</label>
     <input type="text" name="firstname" placeholder="enter your firstname"><br>
     <label for="lastname">Lastname</label>
