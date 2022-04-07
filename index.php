@@ -20,6 +20,6 @@ echo "Test ";
     <label for="phone no">Phone No.</label>
     <input type="text" name="phoneno" placeholder="enter your phone number">
     <label for="address">Address</label>
-    <textarea >
+    <textarea name="address" cols="5" rows="5"></textarea>
 </body>
 </html>
