@@ -1,6 +1,8 @@
 <?php
 
 echo "Test ";
+
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,6 +13,7 @@ echo "Test ";
     <title>Document</title>
 </head>
 <body>
+    <form action="insert1.php" method="POST">
     <label for="firstname">Firstname</label>
     <input type="text" name="firstname" placeholder="enter your firstname"><br>
     <label for="lastname">Lastname</label>
