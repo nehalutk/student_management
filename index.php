@@ -11,11 +11,13 @@ echo "Test ";
     <title>Document</title>
 </head>
 <body>
-    <label for="firstname">Enter Your Firstname</label>
+    <label for="firstname">Firstname</label>
     <input type="text" name="firstname" placeholder="enter your firstname"><br>
-    <label for="lastname">Enter your lastname</label>
+    <label for="lastname">Lastname</label>
     <input type="text" name="lastname" placeholder="enter your lastname">
-    <label for="email">Add your email address</label>
+    <label for="email">Email</label>
     <input type="email" name="email" placeholder="enter your email id">
+    <label for="phone no">Phone No.</label>
+    <input type="text" name="phoneno" placeholder="enter your phone number">
 </body>
 </html>
