@@ -1,10 +1,12 @@
 <?php
-
+echo "your new branch is student-management2";
 echo "one";
 echo "two";
 echo "three";
-echo "four";
 ?>
 <html>
   <input type="text" name="firstname" placeholder="enter your firstname">
+  <h2>home</h2>
+  <h4>New</h4>
+  <h5>Another home page</h5>
 </html>
