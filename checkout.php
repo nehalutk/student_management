@@ -1,4 +1,5 @@
 <?php
+echo "master";
 echo "one";
 echo "two";
 echo "three";
