@@ -7,6 +7,7 @@ echo "three";
 <html>
   <input type="text" name="firstname" placeholder="enter your firstname">
   <input type="text" name="lastname" placeholder="enter your lastname">
+  <input type="email" name="email" placeholder="enter your email id">
   <h2>home</h2>
   <h4>New</h4>
   <h5>Another home page</h5>
